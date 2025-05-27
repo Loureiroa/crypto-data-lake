@@ -1,0 +1,28 @@
+date: '2025-05-11'
+record_count: 3
+schema:
+- column: coin
+  dtype: object
+- column: currency
+  dtype: object
+- column: price
+  dtype: float64
+- column: date
+  dtype: object
+samples:
+  coin:
+  - bitcoin
+  - ethereum
+  - cardano
+  currency:
+  - usd
+  - usd
+  - usd
+  price:
+  - '104567.0'
+  - '2499.92'
+  - '0.799542'
+  date:
+  - '2025-05-11'
+  - '2025-05-11'
+  - '2025-05-11'

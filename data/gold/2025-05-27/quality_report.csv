@@ -1,0 +1,2 @@
+total_rows,total_cols,dup_count,outliers,nulls_coin,nulls_currency,nulls_price,nulls_date,price_count,price_mean,price_std,price_min,price_25%,price_50%,price_75%,price_max
+3,4,0,0,0,0,0,0,3.0,37423.06297033333,62542.6709081209,0.768911,1322.0944555,2643.42,56134.21,109625.0

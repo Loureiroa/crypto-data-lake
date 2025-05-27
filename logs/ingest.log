@@ -1,0 +1,12 @@
+2025-04-30 14:08:51,589 - INFO - Iniciando ingestão para bitcoin
+2025-04-30 14:08:51,883 - INFO - Dados de bitcoin salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-04-30\bitcoin.json
+2025-04-30 14:08:52,884 - INFO - Iniciando ingestão para ethereum
+2025-04-30 14:08:53,199 - INFO - Dados de ethereum salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-04-30\ethereum.json
+2025-04-30 14:08:54,200 - INFO - Iniciando ingestão para solana
+2025-04-30 14:08:54,469 - INFO - Dados de solana salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-04-30\solana.json
+2025-05-05 08:45:39,421 - INFO - Iniciando ingestão para bitcoin
+2025-05-05 08:45:39,745 - INFO - Dados de bitcoin salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-05-05\bitcoin.json
+2025-05-05 08:45:40,746 - INFO - Iniciando ingestão para ethereum
+2025-05-05 08:45:41,015 - INFO - Dados de ethereum salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-05-05\ethereum.json
+2025-05-05 08:45:42,015 - INFO - Iniciando ingestão para solana
+2025-05-05 08:45:42,282 - INFO - Dados de solana salvos em F:\Estudos\Projetos\crypto_data_lake\data\bronze\2025-05-05\solana.json
